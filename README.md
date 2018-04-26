@@ -1,2 +1,2 @@
 # Instatest
-Instagram py tests
+Instagram py script tests.
